@@ -1,0 +1,33 @@
+.item-list {
+    width: 825px;
+    margin: 0 0 0 355px;
+    height: 40px;
+    border-bottom: 3px solid #CCCCCC;
+    background:#F0F0F0;
+}
+.pager li {
+    list-style-type: none;
+    float: left;
+    width: 30px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+.pager li a, .pager li span {
+    text-decoration: none;
+    color: #8B2B28;
+    display: block;
+    height: 43px;
+    width: 30px;
+}
+.pager li a:hover, .pager li span:hover {
+    color: #000000;
+}
+
+#content{
+    padding-bottom: 0;
+}
+
+.item-list span {
+    background: #C0C0C0;
+}
